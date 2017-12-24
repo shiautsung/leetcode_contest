@@ -1,0 +1,7 @@
+1. 这本来是上周该总结的。忘记了。
+2. 忘记的原因就是这次做完了四题，愉快玩耍去了。
+3. 第一题Min Cost Climbing Stairs。简单的一维dp，可能甚至都不算是。
+4. 第二题Shortest Completing Word。也很简单的，统计字符个数就可以了。
+5. 第三题Number Of Corner Rectangles。题目好像是二维数组数矩形，我是直接暴力搜索。
+6. 第四题Contain Virus。很烦的题，多次dfs。复杂，运气好，写完一个bug，改了就过了。
+7. 这次的排名历史新高。
