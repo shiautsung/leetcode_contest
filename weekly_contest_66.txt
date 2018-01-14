@@ -1,0 +1,6 @@
+1. 完成了前三题
+2. 第一题Find Anagram Mappings。简单题，记录一下位置，再遍历就可以了。
+3. 第二题Bold Words in String。也挺简单的。搜一下就好了。
+4. 第三题Employee Free Time. 虽然是hard题，仔细一点就可以，思路就是直接找。
+5. 第四题Special Binary String。真hard题。思路奇特。比赛的时候想到了一点，但没往下想。
+   主要是一维区间上的递归操作。如何分割是关键。
